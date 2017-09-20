@@ -1,0 +1,51 @@
+commit d4157e06df8c94131535b4a88e91004360f4b071
+Merge: 673bdde 997d82b
+Author: Kaelan Patel <kapa5087@colorado.edu>
+Date:   Tue Sep 19 18:42:18 2017 -0600
+
+    fix merge
+
+commit 673bdde64ec58909b787d81fe01b66dd7758cbb3
+Author: Kaelan Patel <kapa5087@colorado.edu>
+Date:   Tue Sep 19 18:35:47 2017 -0600
+
+    merge conflict line add
+
+commit 997d82b314a54f7e0944f61fc9750010ab6f466c
+Author: Chris Scarola <scarolac@colorado.edu>
+Date:   Tue Sep 19 18:18:41 2017 -0600
+
+    Added name to readme
+
+commit ef5bc9c70de259b058fe4f39993c9dac94fc5116
+Merge: 464b7d0 7bfd407
+Author: Kaelan Patel <kapa5087@colorado.edu>
+Date:   Tue Sep 19 18:02:48 2017 -0600
+
+    Merge branch 'testing-new-files'
+    
+    The assignment says to merge.
+
+commit 464b7d07c64f648b2d8b77f1ce1ba232f91195fa
+Author: Kaelan Patel <kapa5087@colorado.edu>
+Date:   Tue Sep 19 18:01:21 2017 -0600
+
+    edit to extraFile.txt
+
+commit 7bfd407c60b679b3e877f43908ed43f1d652fbbc
+Author: Kaelan Patel <kapa5087@colorado.edu>
+Date:   Tue Sep 19 17:57:58 2017 -0600
+
+    newBranchFile in new branch
+
+commit 99491a4f410ff0574b25d12110e5aea47ea75364
+Author: Kaelan Patel <kapa5087@colorado.edu>
+Date:   Tue Sep 19 17:51:24 2017 -0600
+
+    extra file commit
+
+commit 5a6f0d7fdd5132b3a020f01828897fcca2c53835
+Author: Kaelan Patel <kapa5087@colorado.edu>
+Date:   Tue Sep 19 17:49:02 2017 -0600
+
+    inital commit
